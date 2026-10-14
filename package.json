@@ -1,0 +1,23 @@
+{
+    "name": "sep10-signing-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "fetch:challenge": "node fetch-challenge.mjs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nerdjango/sep10-signing-test.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nerdjango/sep10-signing-test/issues"
+    },
+    "homepage": "https://github.com/nerdjango/sep10-signing-test#readme",
+    "dependencies": {
+        "@stellar/stellar-sdk": "^17.2.1"
+    }
+}
